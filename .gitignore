@@ -10,5 +10,8 @@ jspm_packages
 .webpack
 dist
 
+# NextJS
+.next
+
 # Other
 .DS_Store
